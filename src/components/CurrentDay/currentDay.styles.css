@@ -1,0 +1,29 @@
+.myCardInner {
+  z-index: 1;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem 0 2rem 2rem;
+}
+.myContainer {
+  display: flex;
+  color: #f7f8f8;
+}
+h2 {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+p {
+  margin-bottom: 0;
+}
+.myText {
+  font-weight: lighter;
+  margin-bottom: 1rem;
+}
+.weatherIcon {
+  width: 45px;
+}
+h5 {
+  font-weight: lighter;
+}
