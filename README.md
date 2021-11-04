@@ -1,14 +1,8 @@
-# Hi there
+## Hi there,
+## It's a React Weather application using API.
+[Here is the link for this applictaion](https://weatherappreact123.netlify.app "React Weather App")
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
+#### To install all the dependencies, please type `npm install` in your console, after cloning the git.
+#### To run the applictaion on localhost, please type `npm start` in your console.
 
 
